@@ -27,8 +27,8 @@ class App < Sinatra::Base
     @word1 = parama[:word1]
     @word1 = parama[:word1]
     @word1 = parama[:word1]
-    
+
   end
-  
+
 
 end
